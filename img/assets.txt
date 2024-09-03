@@ -1,0 +1,7 @@
+home___video link - https://www.youtube.com/JruxFQurUDQ
+news1___video link - https://www.youtube.com/rb6lbyYZ2AQ
+news2___video link - https://www.youtube.com/IQQPDPAvxTg
+news3___video link - https://www.youtube.com/oxJeQc-C-_4
+
+gradient head-(   background: linear-gradient(to bottom, #657cc2, #657cc2   ) 
+gradient body-(   background: linear-gradient(to bottom, #1a0582, #430e80,#0d5a94, #1a0582);   )
